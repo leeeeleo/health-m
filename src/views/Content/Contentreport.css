@@ -1,0 +1,85 @@
+.page{
+    height:100% ;
+    background: url(../../assets/images/report_bg.png)  100% no-repeat;
+    background-size: 100% 100%;
+}
+.shibietxt{
+    font-size:2.1rem;
+    color: #000;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 2.1rem;
+    margin-bottom: 2.1rem;
+}
+.keshu{
+    margin: 2rem auto;
+    background-color: #fff;
+    display: block;
+    border-radius: 10px;
+    width: 43rem;
+}
+.waike{
+    background-color: #99c9fe;
+    height: 6.8rem;
+    font-size: 2.1rem;
+    display: block;
+
+    color: #fff;
+    border-radius: 10px 10px 0 0 ;
+}
+.completed{
+    color: #f00 !important;
+}
+.title2{
+    font-size: 2.12rem;
+    font-weight: bold;
+    margin-left: 1.875rem;
+    margin-top: 1rem;
+}
+hr {
+    height: 2px;
+    border: none;
+    border-top: 2px solid #f9f9f9;
+    width: 40rem;
+    margin: 0 auto;
+  }
+.waiketxt{
+    margin-left: 2rem;
+    line-height: 6.8rem;
+}
+.van-nav-bar__title{
+    color: #fff;
+    font-size: 2.25rem;
+    margin: 0 auto;
+    line-height: 2.25rem;
+    font-weight: normal;
+}
+.tt1{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 2.5rem 0.3rem 3rem;
+    font-size: 1.875rem;
+}
+.content{
+    color: #999;
+}
+.xing{
+    margin-left: -0.7rem;
+    color: #3493fd;
+}
+.tips{
+    color: #666;
+    font-size: 1.875rem;
+    margin-left: 1.875rem;
+    margin-top: 2rem;
+}
+.tijiao {
+    width: 43rem;
+    margin: 1rem 0 2rem  2rem;
+    height: 5.8rem;
+    line-height: 1.8rem;
+    font-size: 1.875rem;
+    background-color: #3496fd;
+    border-radius: 10px;
+    color: #fff;
+}

@@ -1,0 +1,214 @@
+html {
+    font-size: 16px;
+  }
+  
+  .page {
+    position: relative;
+    width: 46.875rem;
+    height: 83.375rem;
+    overflow: hidden;
+  }
+  
+  .box_1 {
+    height: 83.375rem;
+    background: url(../../assets/images/home_bg2.png)
+      100% no-repeat;
+    background-size: 100% 100%;
+    width: 46.875rem;
+  }
+  .van-swipe-item{height: 17.5rem !important;}
+  .box_2 {
+    width: 46.875rem;
+    height: 83.375rem;
+    background: url(../../assets/images/home_bg1.png) -0.125rem -0.063rem
+      no-repeat;
+    background-size: 47.313rem 113.438rem;
+  }
+  
+  .nav-bar_1 {
+    height: 10rem;
+    background: #3493fd;
+    background-size: 56.438rem 11.063rem;
+    width: 46.875rem;
+  }
+  
+  .text_1 {
+    width: 13.375rem;
+    height: 2.125rem;
+    position: absolute;
+    font-weight: bold;
+    overflow-wrap: break-word;
+    color: rgba(255, 255, 255, 1);
+    font-size: 2.25rem;
+    font-family: PingFang-SC-Bold;
+    font-weight: NaN;
+    text-align: left;
+    white-space: nowrap;
+    line-height: 2.25rem;
+    margin: 5.375rem 0 0 16.75rem;
+  }
+  
+  .group_1 {
+    width: 46.875rem;
+    height: 73.438rem;
+    margin-bottom: 0.063rem;
+  }
+  
+  .text-wrapper_1 {
+    height: 3.75rem;
+    background: #fff
+      0rem no-repeat;
+    background-size: 48.938rem 3.75rem;
+    width: 46.875rem;
+  }
+  
+  .text_2 {
+    width: 16.125rem;
+    height: 1.563rem;
+    position: absolute;
+    overflow-wrap: break-word;
+    color: rgba(51, 51, 51, 1);
+    font-size: 1.625rem;
+    font-family: PingFang-SC-Medium;
+    font-weight: NaN;
+    text-align: left;
+    white-space: nowrap;
+    line-height: 1.625rem;
+    margin: 1.125rem 0 0 1.813rem;
+  }
+  
+  .group_2 {
+    background-color: rgba(0, 0, 0, 1);
+    border-radius: 10px;
+    height: 17.5rem;
+    width: 43.125rem;
+    margin: 2.5rem 0 0 1.875rem;
+  }
+  
+  .group_3 {
+    height: 17.5rem;
+    width: 43.125rem;
+  }
+  
+  .section_1 {
+    width: 43.125rem;
+    height: 17.5rem;
+  }
+  
+  .text-wrapper_2 {
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 10px;
+    height: 21.25rem;
+    width: 43.125rem;
+    margin: 2.5rem 0 0 1.875rem;
+  }
+  
+  .text_3 {
+    width: 39.438rem;
+    height: 16.375rem;
+    overflow-wrap: break-word;
+    color: rgba(51, 51, 51, 1);
+    font-size: 1.875rem;
+    font-family: PingFang-SC-Medium;
+    font-weight: NaN;
+    text-align: left;
+    line-height: 3rem;
+    margin: 2.125rem 0 0 1.75rem;
+  }
+  
+  .group_4 {
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 10px;
+    height: 17.375rem;
+    width: 43.125rem;
+    margin: 2.625rem 0 5.938rem 1.938rem;
+  }
+  
+  .group_5 {
+    height: 17.375rem;
+    width: 43.125rem;
+  }
+  
+  .box_7 {
+    width: 43.125rem;
+    height: 17.375rem;
+  }
+  
+  .group_6 {
+    width: 14.625rem;
+    height: 11.438rem;
+    margin: 2.938rem 0 0 1.813rem;
+  }
+  
+  .text_4 {
+    width: 13.313rem;
+    height: 2.125rem;
+    position: absolute;
+    overflow-wrap: break-word;
+    color: rgba(51, 51, 51, 1);
+    font-size: 2.25rem;
+    font-family: PingFang-SC-Bold;
+    font-weight: NaN;
+    text-align: left;
+    white-space: nowrap;
+    line-height: 3rem;
+    margin-top: 3rem;
+  }
+  .text_5{
+    width: 13.313rem;
+    height: 2.125rem;
+    position: absolute;
+    overflow-wrap: break-word;
+    color: #666;
+    font-size: 1.62rem;
+    font-family: PingFang-SC-Bold;
+    font-weight: NaN;
+    text-align: left;
+    white-space: nowrap;
+    line-height: 3rem;
+    margin-top: 8rem;
+  }
+  .home1{
+    position: absolute;
+    margin-left: 18.5rem;
+    width: 31rem;
+    margin-top: 1rem;
+
+  }
+  
+  .button_1 {
+    background-color: rgba(54, 165, 255, 1);
+    border-radius: 27px;
+    height: 3.375rem;
+    width: 9.375rem;
+    margin: 11.125rem 0 0 0.063rem;
+  }
+  
+  .text_6 {
+    width: 6.375rem;
+    height: 2.5rem;
+    overflow-wrap: break-word;
+    color: rgba(255, 255, 255, 1);
+    font-size: 1.625rem;
+    font-family: PingFang-SC-Medium;
+    font-weight: NaN;
+    text-align: left;
+    white-space: nowrap;
+    line-height: 3rem;
+    margin: 0 auto 1rem;
+  }
+  
+.exit{
+  display: block;
+  color: #3493fd;
+  text-align: end;
+  font-size: 1.625rem;
+  margin-right: 1rem;
+  padding-top: 0.6rem;
+} 
+  
+  .box_8 {
+    width: 7.063rem;
+    height: 14.438rem;
+  }
+  

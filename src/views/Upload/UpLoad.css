@@ -1,0 +1,142 @@
+html{font-size: 16px;}
+.overplay {
+    /* set the background color to rgba(0, 0, 0, 0.5) for 50% transparent black */
+    background-color: rgba(0, 0, 0, 0.5);
+    /* set the position to fixed so that the dialog can be positioned correctly */
+    position: fixed;
+    /* set the top, left, right, and bottom to 0 to make sure the page takes the full screen */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /* set the z-index to a value greater than the dialog to make sure the page is behind the dialog */
+    z-index: 2000;
+  }
+.page {
+    position: relative;
+    width: 46.875rem;
+    height: 83.375rem;
+    overflow: hidden;
+  }
+  .box_1 {
+    height: 83.375rem;
+    background: url(../../assets/images/home_bg2.png)
+      100% no-repeat;
+    background-size: 100% 100%;
+    width: 46.875rem;
+  }
+.van-nav-bar__content{
+    height: 10rem;
+    background-color: #3493fd;
+}
+
+.van-nav-bar .van-icon{
+    color: #fff;
+    width: 1rem;
+    font-size: 2rem;
+}
+.van-uploader{
+    margin-top: 2.5rem;
+    margin-left: 3.2rem;
+}
+.van-icon-cross:before{
+    font-size: 2.3rem;
+}
+.van-uploader__preview-delete--shadow{
+    height: 2rem;
+    width: 2rem;
+    border-radius: 30px;
+}
+.van-uploader__preview-delete{
+    top: 1rem;
+    right: 1rem;
+}
+.upload{
+    width: 43rem;
+    height: 5.8rem;
+    background-color: #3493fd;
+    border-radius: 3rem;
+    margin: 17rem auto 0;
+    display: block;
+    text-align: center;
+}
+.van-image__img, .van-image__error, .van-image__loading{
+    border-radius: 10px;
+
+}
+.van-dialog__confirm {
+    /* your styles here */
+    color: #fff !important;
+    background-color: #3493fd;
+  }
+
+.tjtxt {
+    font-size: 2.2rem;
+    color: #fff;
+    line-height: 5.8rem;
+    
+}
+.dialog{
+    display: block;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    border-radius: 23px;
+    width: 43.25rem;
+    height: 49rem;
+    z-index: 2002;
+    margin: -20rem 0 0 2rem;
+}
+
+.tsbt {
+    width: 8.875rem;
+    height: 2.125rem;
+    overflow-wrap: break-word;
+    color: rgba(51, 51, 51, 1);
+    font-size: 2.25rem;
+    font-family: PingFang-SC-Heavy;
+    font-weight: bold;
+    text-align: left;
+    white-space: nowrap;
+    line-height: 2.25rem;
+    margin: 5.625rem 0 0 17.188rem;
+    padding-top: 3rem;
+  }
+  .zc1 {
+    width: 37.25rem;
+    height: 8.5rem;
+    overflow-wrap: break-word;
+    color: rgba(136, 135, 135, 1);
+    font-size: 1.875rem;
+    font-family: PingFang-SC-Medium;
+    font-weight: NaN;
+    text-align: center;
+    line-height: 2.25rem;
+    margin: 5rem auto;
+  }
+.dialog .el-form{
+    margin-top: -3rem;
+}
+ .el-input__wrapper {
+    box-shadow: none;
+    background-color: #f5f7f7;
+    padding:0 0 0 2rem;
+    border-radius: 3rem;
+
+}
+.el-input__wrapper:hover{box-shadow:  none !important; border-radius: 2rem;}
+.el-input__inner{font-size: 1.8rem !important;height: 5rem !important;}
+.yzmbox{
+    margin-top: 1rem;
+}
+
+.tjbutton {display: block;}
+.tjbutton  .submit{
+    margin-top: 1.5rem;
+    margin-left: 3rem;
+    width: 37rem;
+    height: 5.8rem;
+    border-radius: 3rem;
+    background-color: #36a2ff;
+    font-size: 2.1rem;
+    color: #fff;
+  }
